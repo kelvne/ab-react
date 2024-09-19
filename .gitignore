@@ -1,0 +1,13 @@
+.vscode/
+.DS_Store
+*.log
+node_modules/
+npm-debug.log
+.npmrc
+coverage/
+dist/
+yarn-error.log
+local/
+badges/
+!.gitignore
+!.npmignore

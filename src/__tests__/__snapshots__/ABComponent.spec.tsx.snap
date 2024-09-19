@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ABComponent expect to render WithVersionDefined if forceVersion is set 1`] = `
+<div>
+  <div>
+    a
+  </div>
+</div>
+`;

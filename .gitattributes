@@ -1,0 +1,2 @@
+# do not show lock files while doing git diff
+yarn.lock -diff
