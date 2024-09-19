@@ -8,6 +8,5 @@ coverage/
 dist/
 yarn-error.log
 local/
-badges/
 !.gitignore
 !.npmignore
