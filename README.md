@@ -4,6 +4,11 @@
 
 If this component helped you or your team, please give it a GitHub 🌟!
 
+## Examples
+
+- Using SSR and CSR with [Next.js](#nextjs)
+- Plain CSR with [Vite.js](#vitejs)
+
 ---
 
 ## Installation
@@ -96,7 +101,9 @@ export default function MyComponent() {
 
 ## Examples
 
-### Vite.js: Using only CSR (Client Side Rendering)
+### Vite.js
+
+**Using only CSR (Client Side Rendering)**
 
 ```tsx
 import { useState, useCallback } from 'react';
@@ -126,7 +133,9 @@ export default function ABTesting() {
 }
 ```
 
-### Next.js: Using SSR (Server Side Rendering), CSR (Client Side Rendering) and AppRouter
+### Next.js
+
+**Using SSR (Server Side Rendering), CSR (Client Side Rendering) and AppRouter**
 
 page.tsx:
 ```tsx
