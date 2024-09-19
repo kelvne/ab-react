@@ -20,13 +20,16 @@ npm install ab-react
 
 ## Usage
 
-**This is mainly for AB testing, it will work with multiple children but try to stick with two**
+**This is mainly for AB testing, it will work with multiple children but try to stick with two.**
 
 ### Normal use case
 
 In the following example, three things can happen:
+
 1 - The ABReact component will randomize one of the children and store the value on a cookie, after that the user will always see the same version. 
+
 2 - If a version is set on the cookie with the defined cookie name, that version will be rendered.
+
 3 - If a version is set on the cookie with the defined cookie name but the child doesn't exist null will be returned.
 
 **No matter what scenario happens, the trackVersion event will be called each time the component is rendered.**

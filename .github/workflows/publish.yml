@@ -37,7 +37,7 @@ jobs:
       - name: Building
         run: yarn build
 
-      # - name: Publishing to NPM
-      #   uses: JS-DevTools/npm-publish@v3
-      #   with:
-      #     token: ${{ secrets.NPM_TOKEN }}
+      - name: Publishing to NPM
+        uses: JS-DevTools/npm-publish@v3
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
