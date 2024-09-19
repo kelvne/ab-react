@@ -12,7 +12,7 @@
   "main": "dist/ab-react.min.cjs",
   "module": "dist/ab-react.min.mjs",
   "repository": {
-    "url": "https://github.com/kelvne/ab-react",
+    "url": "git+https://github.com/kelvne/ab-react.git",
     "type": "git"
   },
   "author": "Kelvne M. Pechim <kelvne.pechim@gmail.com>",
