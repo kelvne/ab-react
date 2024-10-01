@@ -20,7 +20,7 @@ yarn add ab-react
 or 
 
 ```sh
-npm install ab-react
+npm install -S ab-react
 ```
 
 ## Usage
