@@ -15,7 +15,7 @@ const builds = [
     file: 'dist/ab-react.cjs',
     format: 'cjs',
   },
-]
+];
 
 const commonPlugins = [
   progress(),
