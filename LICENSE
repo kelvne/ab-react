@@ -1,15 +1,21 @@
-This software is public and not scarce. Therefore, it has no
-copyright nor ownership.
+The MIT License (MIT)
 
-As an open source code, usage of this software in any form is
-allowed, if it was not the access to this software would be
-private or shared through a contract by the parts.
+Copyright (c) 2024 Kelvne
 
-This sofware is provided by the place by whoever puts it wherever
-it is "as is" and:
-    * Obviously, no company or person provides warranties.
-    * Obviously, contributors are not liable for usage of this
-software by others.
-    * Obviously, should not be considered property since it is
-infinitely replicable and the usage from one entity does not
-implicate the obstruction of the usage by other entity.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
